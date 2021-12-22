@@ -1,0 +1,16 @@
+C:\Users\kch98\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\kch98\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\kch98\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.Form1.resources
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.Form2.resources
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.Properties.Resources.resources
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.GenerateResource.cache
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.StackForm.resources
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.QueueForm.resources
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.DequeueForm.resources
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.BstreeForm.resources
+C:\Users\kch98\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.MaxHeap.resources
